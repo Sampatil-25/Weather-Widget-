@@ -6,9 +6,9 @@ A responsive weather application built with **React.js** that allows users to se
 
 * 🔍 Search weather by city name
 * 🌡️ Display current temperature
-* 🌡️ Show minimum and maximum temperature
+* 🌡️ Display minimum and maximum temperature
 * 💧 Display humidity
-* 🌤️ Show current weather condition
+* 🌤️ Display current weather condition
 * 🤗 Display "feels like" temperature
 * 📱 Responsive user interface
 * ⚡ Built using React functional components and hooks
@@ -30,7 +30,6 @@ A responsive weather application built with **React.js** that allows users to se
 mini-project-react/
 │
 ├── public/
-│   
 │
 ├── src/
 │   ├── components/
@@ -73,7 +72,7 @@ cd mini-project-react
 npm install
 ```
 
-### 4. Create environment variables
+### 4. Configure the API key
 
 Create a `.env` file in the project root:
 
@@ -101,15 +100,13 @@ Add your API key to the `.env` file:
 VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
-Make sure the variable name matches the one used in your React code.
+Make sure the environment variable name matches the one used in your React code.
 
 ## 📸 Screenshots
 
-Add screenshots of your Weather Widget here.
+Add screenshots of the Weather Widget here.
 
-Example:
-
-```text
+```markdown
 ![Weather Widget](screenshot.png)
 ```
 
@@ -129,6 +126,11 @@ Example:
 
 GitHub:
 https://github.com/Sampatil-25
+
+## 📄 License
+
+This project is created for learning and portfolio purposes.
+
 
 ## 📄 License
 
