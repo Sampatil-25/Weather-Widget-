@@ -30,8 +30,7 @@ A responsive weather application built with **React.js** that allows users to se
 mini-project-react/
 │
 ├── public/
-│   ├── favicon.svg
-│   └── icons.svg
+│   
 │
 ├── src/
 │   ├── components/
