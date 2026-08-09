@@ -65,7 +65,7 @@ git clone https://github.com/Sampatil-25/Weather-Widget-.git
 ### 2. Navigate to the project
 
 ```bash
-cd Weather-Widget-
+cd mini-project-react
 ```
 
 ### 3. Install dependencies
